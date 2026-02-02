@@ -1,0 +1,13 @@
+#Diseño y desarrollo de un vehículo radiocontrolado basado en 
+ESP32 con comunicación Bluetooth#
+#Autor: José Fernández Esteban 
+#Resumen del proyecto: 
+El presente Trabajo de Fin de Grado consiste en la creación de un coche radiocontrolado 
+mediante el uso de dos placas ESP32, seleccionadas por integrar un módulo de 
+comunicación Bluetooth. Uno de los ESP32 se instala en un chasis de madera fabricado por 
+mi y  se conecta a dos motores de tracción trasera y a un servomotor encargado del sistema 
+de dirección. El control del vehículo se realiza a través de un mando diseñado y construido 
+por mi  también , compuesto por un ESP32 y dos joysticks, que permiten manejar a 
+distancia los motores y el servomotor. El desarrollo del código se basa en los conocimientos 
+adquiridos en clase, así como en la serie de vídeos sobre componentes de Arduino para 
+principiantes del autor Bitwise Ar, encontrándose dicho desarrollo aún en proceso.
